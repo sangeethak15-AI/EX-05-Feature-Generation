@@ -74,7 +74,8 @@ df4
 
 # OUTPUT
 ### Given DataFrame
-https://github.com/KeerthikaNagarajan/EX-05-Feature-Generation/raw/main/img/data1.png
+![1 give](https://user-images.githubusercontent.com/93992063/166719292-a8424793-bd26-4f55-8abe-8cf44aa14f80.png)
+
 ### Feature encoding using Ordinal Encoder
 ### Feature encoding using Binary Encoder
 ### Feature encoding using One Hot Encoder
