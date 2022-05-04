@@ -77,14 +77,32 @@ df4
 ![1 give](https://user-images.githubusercontent.com/93992063/166719292-a8424793-bd26-4f55-8abe-8cf44aa14f80.png)
 
 ### Feature encoding using Ordinal Encoder
+![1 ori](https://user-images.githubusercontent.com/93992063/166719564-dc9baa53-656c-4234-a666-12f180ca4af3.png)
+![1 ori(](https://user-images.githubusercontent.com/93992063/166719752-5a370928-fed2-4744-96b2-e6f75f71aaed.png)
 ### Feature encoding using Binary Encoder
+![1 bin](https://user-images.githubusercontent.com/93992063/166720022-d841f3f7-f23f-4540-84be-33619b86d7ff.png)
+![1 bin(](https://user-images.githubusercontent.com/93992063/166720183-5e234f23-1fb2-470b-bd8a-ae12dcbb1b96.png)
+
 ### Feature encoding using One Hot Encoder
+![1 onehot](https://user-images.githubusercontent.com/93992063/166720383-aa50fbe0-1cc0-41fd-a2a7-03ab58311e83.png)
+
 ### Feature encoding using Target Encoder
+![1 tar](https://user-images.githubusercontent.com/93992063/166720529-b4a85e7a-8732-4248-9a88-d1e715a78a20.png)
+
 ### Feature encoding using Label Encoder
+![1 last](https://user-images.githubusercontent.com/93992063/166720708-61c8afea-768e-41d9-82fc-0af3b58a493d.png)
+
 ### Feature scaling using Standard Scaler
+![1 stand](https://user-images.githubusercontent.com/93992063/166720867-3074ad4c-7272-4ea0-9bc7-41c4e7e95cd0.png)
+
 ### Feature scaling using Robust Scaler
+![1 rob](https://user-images.githubusercontent.com/93992063/166721234-6fdd3be4-3a8a-4441-9cc7-a62f5fe9f23b.png)
+
 ### Feature scaling using MaxAbs Scaler
+![1 max](https://user-images.githubusercontent.com/93992063/166721264-19cf4da1-8ccc-4914-87f8-1604c9b4b9b0.png)
+
 ### Feature scaling using MinMax Scaler
+![1 min](https://user-images.githubusercontent.com/93992063/166721297-48b20bb1-803f-4d19-bf6e-a07691deec09.png)
 
 # 2.FEATURE GENERATION FOR Encoding.csv
 ## CODE FOR FEATURE ENCODING AND FEATURE SCALING:
@@ -131,15 +149,31 @@ df4
 
 # OUTPUT
 ### Given DataFrame
+![2 give](https://user-images.githubusercontent.com/93992063/166725050-c888dd47-1095-4dcb-bc57-bb576a1a054d.png)
+
 ### Feature encoding using Ordinal Encoder
+![2 ori](https://user-images.githubusercontent.com/93992063/166725173-657f006a-bb08-4a10-98fc-ebcddcaef440.png)
+
 ### Feature encoding using Binary Encoder
+![2 bin](https://user-images.githubusercontent.com/93992063/166725300-f2ab5620-c2cb-4c97-a30b-683f61b2b325.png)
+
 ### Feature encoding using One Hot Encoder
-### Feature encoding using Target Encoder
+![2 oneshot](https://user-images.githubusercontent.com/93992063/166725927-62709ef8-e22f-4666-b8bf-cf0be6931af7.png)
+
 ### Feature encoding using Label Encoder
+![2 tar](https://user-images.githubusercontent.com/93992063/166726315-eac9d261-018d-4cfe-bc94-332b133e4247.png)
+
 ### Feature scaling using Standard Scaler
+![2 stand](https://user-images.githubusercontent.com/93992063/166726434-a6ced112-ebfa-4602-ba4d-f09c8204d92e.png)
+
 ### Feature scaling using Robust Scaler
+![2 rob](https://user-images.githubusercontent.com/93992063/166726654-a9f9b879-d54a-4c4f-a0bc-8425aa7f8235.png)
+
 ### Feature scaling using MaxAbs Scaler
+![2 max](https://user-images.githubusercontent.com/93992063/166726680-7e8871dd-1f5b-4702-bef3-1c64ed909b59.png)
+
 ### Feature scaling using MinMax Scaler
+![2 min](https://user-images.githubusercontent.com/93992063/166726706-871f0ca9-14a8-4cb4-988c-1e7f779230e4.png)
 
 # 3.FEATURE GENERATION FOR titanic_dataset.csv
 ## CODE FOR FEATURE ENCODING AND FEATURE SCALING:
@@ -187,17 +221,31 @@ df4
 
 # OUTPUT
 ### Given DataFrame
+![3 give](https://user-images.githubusercontent.com/93992063/166727067-24cde20a-c113-4c23-857e-97aafe8c189f.png)
+
 ### Resolving null value data
+![3 null](https://user-images.githubusercontent.com/93992063/166727115-dae8beac-d1a4-4820-95f5-86ee0876e997.png)
 ### Dropping unnecessary columns
+![3 rr](https://user-images.githubusercontent.com/93992063/166727163-aa48c26f-2e5a-47b8-8891-098baf71e92a.png)
+
 ### Feature encoding using Ordinal Encoder
+![3 ori](https://user-images.githubusercontent.com/93992063/166727663-28c2d69f-3caa-4d9d-a47d-f0ca93ec7eb8.png)
+
 ### Feature encoding using Binary Encoder
-### Feature encoding using One Hot Encoder
-### Feature encoding using Target Encoder
-### Feature encoding using Label Encoder
+![3 bin](https://user-images.githubusercontent.com/93992063/166727700-10b9c5bf-6ce8-449b-ba84-1233effacfea.png)
+
 ### Feature scaling using Standard Scaler
+![3 stand](https://user-images.githubusercontent.com/93992063/166727799-cec61d91-67b3-41ae-b0e8-888a00e9ef05.png)
+
+
 ### Feature scaling using Robust Scaler
+![3 rob](https://user-images.githubusercontent.com/93992063/166727839-b57ed25b-ccfa-47c7-99fe-eac659753e29.png)
+
 ### Feature scaling using MaxAbs Scaler
+![3 max](https://user-images.githubusercontent.com/93992063/166727890-bbcc31f5-a0eb-47eb-a237-28b5d7cd97e9.png)
+
 ### Feature scaling using MinMax Scaler
+![3 min](https://user-images.githubusercontent.com/93992063/166727936-24639817-1c3d-43eb-ab1b-be1450241d46.png)
 
 # RESULT:
 Feature Encoding process and Feature Scaling process is applied to the given data frame sucessfully.
