@@ -163,9 +163,6 @@ df4
 ## Feature encoding using One Hot Encoder
 ![2 oneshot](https://user-images.githubusercontent.com/93992063/166725927-62709ef8-e22f-4666-b8bf-cf0be6931af7.png)
 
-## Feature encoding using Label Encoder
-![2 tar](https://user-images.githubusercontent.com/93992063/166726315-eac9d261-018d-4cfe-bc94-332b133e4247.png)
-
 ## Feature scaling using Standard Scaler
 ![2 stand](https://user-images.githubusercontent.com/93992063/166726434-a6ced112-ebfa-4602-ba4d-f09c8204d92e.png)
 
